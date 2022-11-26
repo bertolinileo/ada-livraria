@@ -1,5 +1,5 @@
 # ada-livraria
-Título: Sistema de livraria online.
+# Título: Sistema de livraria online.
 
 Escopo: 
 O intuito do exercício a seguir é treinar e fixar os conceitos de SRP e OCP do SOLID.
