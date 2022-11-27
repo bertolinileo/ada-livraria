@@ -1,10 +1,10 @@
 # ada-livraria
 # Título: Sistema de livraria online.
 
-Escopo: 
+Objetivo: 
 O intuito do exercício a seguir é treinar e fixar os conceitos de SRP e OCP do SOLID.
 
-O Exercício
+Escopo:
 No exemplo a seguir você deve implementar o sistema de uma livraria e depois algumas mudanças de escopo serão aplicadas, por isto o exercício será dividido em duas etapas.
 
 Primeira etapa
@@ -13,16 +13,12 @@ O sistema deve ser capaz de cadastrar os seguintes produtos: livros, jogos, film
 
 Livros:
 Devem ter nome, id, preço, gêneros, escritor, editora .
-
 Jogos:
 Devem ter nome, id, preço, distribuidora, gênero e estúdio
-
 Filmes:
 Devem ter nome, id, preço, estúdio, diretores, gêneros e produtores
-
 Álbuns de música:
 Devem ter nome, id, preço, músicos/bandas, gêneros e selos
-
 Brinquedos:
 Devem ter nome, id, preço e tipo.
 
@@ -39,13 +35,3 @@ Duas mudanças de escopo foi solicitada com urgência. Agora um produto pode ser
 
 Outra mudança solicitada foi que toda compra que passar de R$200,00 em livros deve receber um desconto de 15%.
 
-Dicas finais
-Pense bem nos princípios do SOLID para a realização do exercício.
-Tente realizar o exercício por etapas como proposto, desta maneira vocês estarão simulando uma situação mais próxima a realidade de mercado e trabalhando melhor os princípios de POO.
-Pense e se possível escreva a estrutura que será necessária para que o software seja construído.
-Além dos conceitos do SOLID tente aplicar também os demais conceitos aprendidos nas aulas de POO.
-Escreva uma documentação para seu projeto no Github, ela ajuda a expor as habilidades aprendidas e as demais pessoas que acessarem seu repositório entenderem o que está acontecendo.
-Crie quantas entidades quiser para facilitar a resolução do exercício.
-Tente ser declarativo em relação ao nome dos métodos, classes, interfaces e variáveis.
-Não guarde as dúvidas para você, compartilhe com os professores e a turma, as vezes mais colegas estão com o mesmo problema, ou é uma questão que não foi pensada inicialmente pelos professores.
-Aproveite o exercício para fixar os conceitos ensinados em aula.
