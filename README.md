@@ -13,12 +13,16 @@ O sistema deve ser capaz de cadastrar os seguintes produtos: livros, jogos, film
 
 Livros:
 Devem ter nome, id, preço, gêneros, escritor, editora .
+
 Jogos:
 Devem ter nome, id, preço, distribuidora, gênero e estúdio
+
 Filmes:
 Devem ter nome, id, preço, estúdio, diretores, gêneros e produtores
+
 Álbuns de música:
 Devem ter nome, id, preço, músicos/bandas, gêneros e selos
+
 Brinquedos:
 Devem ter nome, id, preço e tipo.
 
